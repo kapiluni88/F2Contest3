@@ -1,0 +1,152 @@
+[
+    {
+      "devName": "atomiks",
+      "devUserName": "",
+      "repoName": "tippyjs",
+      "description": "Tooltip, popover, dropdown, and menu library"
+    },
+    {
+      "devName": "Simon Lydell",
+      "devUserName": "lydell",
+      "repoName": "eslint-plugin-simple-import-sort",
+      "description": "Easy autofixable import sorting."
+    },
+    {
+      "devName": "Zeno Rocha",
+      "devUserName": "zenorocha",
+      "repoName": "clipboard.js",
+      "description": "✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋"
+    },
+    {
+      "devName": "Adhiraj Singh",
+      "devUserName": "adiwajshing",
+      "repoName": "Baileys",
+      "description": "Lightweight full-featured WhatsApp Web + Multi-Device API"
+    },
+    {
+      "devName": "Rob Garrison",
+      "devUserName": "Mottie",
+      "repoName": "GitHub-userscripts",
+      "description": "Userscripts to add functionality to GitHub"
+    },
+    {
+      "devName": "Benjamin E. Coe",
+      "devUserName": "bcoe",
+      "repoName": "c8",
+      "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+      "devName": "Ben Firshman",
+      "devUserName": "bfirsh",
+      "repoName": "jsnes",
+      "description": "A JavaScript NES emulator."
+    },
+    {
+      "devName": "Nelson",
+      "devUserName": "nelsonic",
+      "repoName": "github-scraper",
+      "description": "🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡"
+    },
+    {
+      "devName": "Zeke Sikelianos",
+      "devUserName": "zeke",
+      "repoName": "docs",
+      "description": "This is the open-source repo for docs.github.com."
+    },
+    {
+      "devName": "Rod Vagg",
+      "devUserName": "rvagg",
+      "repoName": "github-webhook-handler",
+      "description": "Node.js web handler / middleware for processing GitHub Webhooks"
+    },
+    {
+      "devName": "Steven Lambert",
+      "devUserName": "straker",
+      "repoName": "html-tagged-template",
+      "description": "Proposal to improve the DOM creation API so developers have a cleaner, simpler, and secure interface to DOM creation and manipulation."
+    },
+    {
+      "devName": "leejimqiu",
+      "devUserName": "LeeJim",
+      "repoName": "HowToCookOnMiniprogram",
+      "description": "程序员做菜指南 for Miniprogram，将程序员精神贯彻到底"
+    },
+    {
+      "devName": "Kent C. Dodds",
+      "devUserName": "kentcdodds",
+      "repoName": "react-fundamentals",
+      "description": "Material for my React Fundamentals Workshop"
+    },
+    {
+      "devName": "Olivier Tassinari",
+      "devUserName": "oliviertassinari",
+      "repoName": "react-swipeable-views",
+      "description": "A React component for swipeable views. ❄️"
+    },
+    {
+      "devName": "Moaaz Sidat",
+      "devUserName": "moaazsidat",
+      "repoName": "react-native-qrcode-scanner",
+      "description": "A QR code scanner component for React Native."
+    },
+    {
+      "devName": "Asif Saif Uddin",
+      "devUserName": "auvipy",
+      "repoName": "celery-flower",
+      "description": "Under heavy development now: Real time Celery monitoring with ASGI 3.0+ django 3.2"
+    },
+    {
+      "devName": "Simon L.",
+      "devUserName": "szaimen",
+      "repoName": "Nextcloud-NAS-Guide",
+      "description": "Nextcloud-NAS-Guide - Instructions how to set up a home server"
+    },
+    {
+      "devName": "Domenic Denicola",
+      "devUserName": "domenic",
+      "repoName": "promises-unwrapping",
+      "description": "The ES6 promises spec, as per September 2013 TC39 meeting"
+    },
+    {
+      "devName": "Ika",
+      "devUserName": "ikatyang",
+      "repoName": "emoji-cheat-sheet",
+      "description": "A markdown version emoji cheat sheet"
+    },
+    {
+      "devName": "Rich Harris",
+      "devUserName": "Rich-Harris",
+      "repoName": "degit",
+      "description": "Straightforward project scaffolding"
+    },
+    {
+      "devName": "Robin Berjon",
+      "devUserName": "darobin",
+      "repoName": "notion-backup",
+      "description": "Simple command to backup a Notion workspace"
+    },
+    {
+      "devName": "Diego Muracciole",
+      "devUserName": "diegomura",
+      "repoName": "react-pdf",
+      "description": "📄 Create PDF files using React"
+    },
+    {
+      "devName": "Tim Paine",
+      "devUserName": "timkpaine",
+      "repoName": "jupyterlab_iframe",
+      "description": "View html as an embedded iframe in JupyterLab"
+    },
+    {
+      "devName": "Brian Holt",
+      "devUserName": "btholt",
+      "repoName": "complete-intro-to-react-v8",
+      "description": "The Complete Intro to React, as taught by Brian Holt on Frontend Masters"
+    },
+    {
+      "devName": "Jan Lehnardt",
+      "devUserName": "janl",
+      "repoName": "mustache.js",
+      "description": "Minimal templating with {{mustaches}} in JavaScript"
+    }
+  ]
